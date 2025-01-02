@@ -1,2 +1,9 @@
-# taskzera
-To-do List Reinvented
+# Taskzera
+
+> To-do List Reinvented
+
+## Roadmmap
+
+ - Levantar requisitos
+ - Definir stack
+ - Iniciar desenvolvimento
