@@ -37,9 +37,7 @@
 
 ## <a name="introduction">🚀 Introduction</a>
 
-&nbsp;Sometimes it can be really tough handling expenses, and saving money seems an impossible task. But fear no more, Family Planner comes to the rescue!
-
-&nbsp;Born to help saving with ease, one's finances shall never fall red again.
+&nbsp;Simply put, Taskzera enables people to collaborate with each other by collaborating in another's TODO List.
 
 
 ## <a name="features">🔋 Features</a>
