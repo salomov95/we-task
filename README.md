@@ -13,7 +13,7 @@
   </div-->
 <br/><br/></br>
  
-  <h1 align="center">Taskzera</h1>
+  <h1 align="center">We Task</h1>
 
    <div align="center">
       The TODO List you know and love, now collaborative!
@@ -30,14 +30,14 @@
 6. 📅 [Releases](#versions)
 7. 🤝 [Contributing](#contributing)
 8. 👥 [Authors](#authors)
-9. ⚙️ [Wiki](https://github.com/salomov95/taskzera/wiki)
+9. ⚙️ [Wiki](https://github.com/salomov95/we-task/wiki)
 
 
 
 
 ## <a name="introduction">🚀 Introduction</a>
 
-&nbsp;Simply put, Taskzera enables people to collaborate with each other by collaborating in another's TODO List.
+&nbsp;Simply put, **We Task** enables people to collaborate with each other by collaborating in another's TODO List.
 
 
 ## <a name="features">🔋 Features</a>
